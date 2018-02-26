@@ -1,0 +1,33 @@
+[
+    {
+        "name": "France",
+        "thumbnail": "FRA_thumb.png",
+        "photo": "FRA.png",
+        "description": "La France, en forme longue la République française, est un pays principalement situé en Europe de l'Ouest, mais qui comprend également des territoires éloignés disséminés sur plusieurs océans et autres continents. Politiquement, il s'agit d'une république constitutionnelle unitaire ayant un régime semi-présidentiel. Elle a pour capitale Paris, pour langue officielle le franÃ§ais et pour monnaie l'euro. Sa devise est 'Liberté, Égalité, Fraternité', et son drapeau est constitué de trois bandes verticales respectivement bleue, blanche et rouge. Son hymne est La Marseillaise."
+    },
+    {
+        "name": "Allemagne",
+        "thumbnail": "GER_thumb.png",
+        "photo": "GER.png",
+        "description": "L'Allemagne, en forme longue République fédérale d'Allemagne (abrégé en RFA, parfois traduit à tort par  'République fédérale allemande'), en allemand Deutschland (Bundesrepublik Deutschland), est un pays d'Europe centrale, entouré par la mer du Nord, le Danemark et la mer Baltique au nord, par la Pologne et la République tchèque à l'est, par l'Autriche et la Suisse au sud, et par la France, le Luxembourg, la Belgique et les Pays-Bas à l'ouest. Pays décentralisé et fédéral, l'Allemagne compte quatre métropoles de plus d'un million d'habitants : la capitale Berlin, ainsi que Hambourg, Munich et Cologne. Le siège du gouvernement est situé dans la ville de Berlin et dans la ville fédérale de Bonn. La ville de Francfort-sur-le-Main est considérée comme la capitale financière de l'Allemagne."
+    },
+    {
+        "name": "Bresil",
+        "thumbnail": "BRA_thumb.png",
+        "photo": "BRA.png",
+        "description": "Le Brésil (dans sa forme longue République fédérative du Brésil) est le plus grand état d'Amérique latine. Avec une population d'environ 201 millions d'habitants et une superficie de 8 514 876 km2, il couvre la moitié du territoire de l'Amérique du Sud (47,3 %), partageant des frontières avec tous les pays du continent à l'exception du Chili et de l'Équateur. Le Brésil est le cinquième plus grand pays de la planète, derrière les États-Unis, la Chine, le Canada et la Russie. Le pays est le seul héritage du Portugal en terre américaine, ce qui se manifeste par sa langue officielle, le portugais."
+    },
+    {
+        "name": "Italie",
+        "thumbnail": "ITA_thumb.png",
+        "photo": "ITA.png",
+        "description": "L'Italie, en forme longue la République italienne est un pays d'Europe du Sud correspondant physiquement à une partie continentale, une péninsule située au centre de la mer Méditerranée et une insulaire, c'est-à-dire les deux plus grandes îles de cette mer, la Sicile et la Sardaigne, et beaucoup d'autres îles plus petites. Elle est rattachée au reste du continent par le massif des Alpes. Le territoire italien correspond approximativement à la région géographique homonyme."
+    },
+    {
+        "name": "Suisse",
+        "thumbnail": "SUI_thumb.png",
+        "photo": "SUI.png",
+        "description": "La Suisse, en forme longue la Confédération suisse, en allemand Schweiz Prononciation du titre dans sa version originale Ã?couter et Schweizerische Eidgenossenschaft, en italien Svizzera et Confederazione Svizzera, en romanche Svizra et Confederaziun svizra, est un pays d'Europe centrale et, selon certaines définitions, de l'Ouest, formé de 26 cantons, avec Berne pour capitale, parfois appelée Â« ville fédérale Â». Elle est bordée par l'Italie au sud, la France à l'ouest, l'Allemagne au nord, et l'Autriche et le Liechtenstein à l'est. La Suisse est un pays sans côte océanique mais dispose d'un accès direct à la mer par le Rhin (Convention de Mannheim). La superficie du pays est de 41 285 km2. Il est géographiquement divisé entre les Alpes, le plateau suisse et le Jura. Tandis que les Alpes occupent la majeure partie du territoire, la population suisse, estimée à huit millions d'habitants, est principalement concentrée sur le plateau, là  où se situent les plus grandes villes. Parmi elles, Zurich et Genève sont deux grands centres économiques et des villes mondiales."
+    }
+]
+
